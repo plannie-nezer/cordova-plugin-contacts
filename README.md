@@ -77,7 +77,8 @@ Older versions of cordova can still install via the __deprecated__ id (stale v0.
     
 It is also possible to install via repo url directly (unstable)
 
-    cordova plugin add https://github.com/apache/cordova-plugin-contacts.git
+For the Fork:
+    cordova plugin add https://github.com/plannie-nezer/cordova-plugin-contacts
 
 
 ### iOS Quirks
